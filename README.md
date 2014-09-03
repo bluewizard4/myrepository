@@ -1,4 +1,6 @@
 myrepository
 ============
 
-my new repository
+my new repository!
+
+GitHub all the way! Cheers mate!
